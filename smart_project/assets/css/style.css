@@ -1,0 +1,156 @@
+.logo img{
+    width: 20%;
+}
+
+
+
+.digit {
+    background-image: url(/assets/images/01-KV-Desktop.avif);
+    background-size: cover;
+    height: 660px;
+    color: white;
+}
+
+.digit h2 {
+    padding-top: 260px;
+    font-size: 55px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    width: 44%;
+    font-weight: 900;
+}
+
+.digit p {
+    padding-left: 80px;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+/* Who we are */
+.mark1 {
+    background-color: white;
+    text-align: center;
+}
+.mark1 h2{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: cursive;
+}
+.mark1 p{
+    font-size: 14px;
+    font-family: none;
+}
+
+.select {
+    padding: 60px;
+}
+
+.mark2 {
+    padding: 20px;
+}
+
+.ink {
+    background-image: url(/assets/images/Laugh.avif);
+    background-size: cover;
+    width: 100%;
+    height: 355px;
+    text-align: center;
+}
+.ink h2{
+    text-align: center;
+    font-size: 16px;
+    padding: 26px 0px 0px 0px;
+    font-weight: bold;
+}
+.ink p{
+    text-align: center;
+    padding: 10px;
+    font-size: 13px;
+}
+.ink a{
+    color: black;
+    font-weight: 500;
+    padding-bottom: 10px;
+}
+
+/* push the world */
+.screen img{
+    width: 100%;
+    height: 100%;
+}
+.screen1{
+    padding: 185px 0px 0px 0px;
+}
+.screen1 h2{
+    width: 60%;
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: 800;
+}
+.screen1 p{
+    font-size: 18px;
+    width: 88%;
+    font-family: math;
+}
+
+
+/* Work in progress */
+.strc{
+    background-image: url(/assets/images/background-image.avif);
+    background-size: cover;
+    width: 100%;
+    height: 720px;
+}
+.range{
+    text-align: center;
+    color: white;
+}
+.range h2{
+    padding: 174px 14px 0px 400px;
+    width: 72%;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+    font-family: cursive;
+}
+.range p{
+    width: 73%;
+    padding: 20px 0px 0px 400px;
+}
+
+
+/* Our Team */
+.sector{
+    padding: 60px;
+}
+.team{
+    text-align: center;
+}
+.team h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: black;
+    font-family: cursive;
+}
+.team p{
+    font-family: math;
+    font-size: 17px;
+}
+.proj img{
+    background-image: cover;
+    width: 100%;
+}
+.mate h3{
+    text-align: center;
+    color: black;
+    padding: 25px 0px 0px 0px;
+    font-size: 25px;
+    font-family: revert;
+    font-weight: bold;
+}
+.mate p{
+    width: 100%;
+    font-size: 13px;
+    text-align: center;
+    font-family: 'SamsungOne', arial, sans-serif;
+}
